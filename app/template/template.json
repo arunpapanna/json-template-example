@@ -1,0 +1,5 @@
+{
+  "this is fedex{{magic}}": {
+    "key": "interpolation is nice {{value}}"
+  }
+}

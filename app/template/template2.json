@@ -1,0 +1,6 @@
+{
+  "this is UPS to do inside a new variable": {
+  "magic" : "{{magic}}",
+"key": "interpolation is nice {{value}}"
+}
+}
